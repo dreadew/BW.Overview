@@ -25,6 +25,7 @@
 | [BW.NotificationService](https://github.com/dreadew/BW.NotificationService) | Отправка и обработка уведомлений         |
 | [BW.Composes](https://github.com/dreadew/BW.Composes)                   | docker-compose оркестрация сервисов      |
 | [BW.Common](https://github.com/dreadew/BW.Common)                       | Общие библиотеки и утилиты                |
+| [BW.UI](https://github.com/dreadew/BW.UI)                       | UI интерфейс                |
 
 ### 🗂️ Архитектурная схема
 
